@@ -24,7 +24,7 @@ The app brings essential campaign services into one organized platform, includin
 - Database and Firestore collections planning
 - Designing 40+ mobile app interfaces
 - Preparing UML diagrams and project documentation
-- Presenting the project through a final report, poster, and prototype
+- Presenting the project through a final report, poster, and project showcase
 
 ---
 
@@ -54,30 +54,20 @@ The app brings essential campaign services into one organized platform, includin
 
 ---
 
-## Prototype
-
-The prototype demonstrates **40+ mobile interfaces** and role-based user flows across four main user types: **Pilgrim, Group Leader, Religious Advisor, and Campaign Manager**.
-
-> Add your prototype link here:
-
-[View Interactive Prototype](#)
-
----
-
 ## Selected UI Screens
 
 <table>
   <tr>
-    <td align="center"><strong>Home Page</strong><br><img src="assets/screenshots/Home page(2).png" width="180"></td>
-    <td align="center"><strong>Check-in Page</strong><br><img src="assets/screenshots/Check-in page.png" width="180"></td>
-    <td align="center"><strong>Chats Page</strong><br><img src="assets/screenshots/Chats page.png" width="180"></td>
-    <td align="center"><strong>AI Chat Page</strong><br><img src="assets/screenshots/AI Chat page.png" width="180"></td>
+    <td align="center"><strong>Home Page</strong><br><img src="assets/screenshots/Home page(1).jpg" width="180"></td>
+    <td align="center"><strong>Check-in Page</strong><br><img src="assets/screenshots/Check-in page.jpg" width="180"></td>
+    <td align="center"><strong>Chats Page</strong><br><img src="assets/screenshots/Chats page.jpg" width="180"></td>
+    <td align="center"><strong>AI Chat Page</strong><br><img src="assets/screenshots/AI Chat page.jpg" width="180"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Learn Page</strong><br><img src="assets/screenshots/Learn page.png" width="180"></td>
-    <td align="center"><strong>Group Leader Chats</strong><br><img src="assets/screenshots/Group Leader chats page.png" width="180"></td>
-    <td align="center"><strong>Control Panel</strong><br><img src="assets/screenshots/Control panel page.png" width="180"></td>
-    <td align="center"><strong>Manager Control Panel</strong><br><img src="assets/screenshots/manager control panel page.png" width="180"></td>
+    <td align="center"><strong>Learn Page</strong><br><img src="assets/screenshots/Learn page.jpg" width="180"></td>
+    <td align="center"><strong>Group Leader Chats</strong><br><img src="assets/screenshots/Group Leader chats page.jpg" width="180"></td>
+    <td align="center"><strong>Control Panel</strong><br><img src="assets/screenshots/Control panel page.jpg" width="180"></td>
+    <td align="center"><strong>Manager Control Panel</strong><br><img src="assets/screenshots/manager control panel page.jpg" width="180"></td>
   </tr>
 </table>
 
@@ -92,55 +82,57 @@ The prototype demonstrates **40+ mobile interfaces** and role-based user flows a
 
 <table>
   <tr>
-    <td align="center"><strong>Home page(2)</strong><br><img src="assets/screenshots/Home page(2).png" width="150"></td>
-    <td align="center"><strong>Home page(1)</strong><br><img src="assets/screenshots/Home page(1).png" width="150"></td>
-    <td align="center"><strong>Group Leader im-lost details</strong><br><img src="assets/screenshots/Group Leader’s im-lost details page.png" width="150"></td>
-    <td align="center"><strong>Group Leader notifications</strong><br><img src="assets/screenshots/Group Leader notifications page.png" width="150"></td>
+    <td align="center"><strong>Home Page 1</strong><br><img src="assets/screenshots/Home page(1).jpg" width="150"></td>
+    <td align="center"><strong>Home Page 2</strong><br><img src="assets/screenshots/Home page(2).jpg" width="150"></td>
+    <td align="center"><strong>Login Page 1</strong><br><img src="assets/screenshots/Login page(1).jpg" width="150"></td>
+    <td align="center"><strong>Login Page 2</strong><br><img src="assets/screenshots/Login page(2).jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Group Leader im-lost</strong><br><img src="assets/screenshots/Group Leader im-lost page.png" width="150"></td>
-    <td align="center"><strong>Group Leader chats</strong><br><img src="assets/screenshots/Group Leader chats page.png" width="150"></td>
-    <td align="center"><strong>Group Leader chat</strong><br><img src="assets/screenshots/Group Leader chat page.png" width="150"></td>
-    <td align="center"><strong>Control panel</strong><br><img src="assets/screenshots/Control panel page.png" width="150"></td>
+    <td align="center"><strong>Registration</strong><br><img src="assets/screenshots/Registration page.jpg" width="150"></td>
+    <td align="center"><strong>Recovery</strong><br><img src="assets/screenshots/Recovery Page.jpg" width="150"></td>
+    <td align="center"><strong>Learn Page</strong><br><img src="assets/screenshots/Learn page.jpg" width="150"></td>
+    <td align="center"><strong>Tawaf Learning</strong><br><img src="assets/screenshots/Tawaf learning page(1).jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Check-in</strong><br><img src="assets/screenshots/Check-in page.png" width="150"></td>
-    <td align="center"><strong>Chats</strong><br><img src="assets/screenshots/Chats page.png" width="150"></td>
-    <td align="center"><strong>Answer a question</strong><br><img src="assets/screenshots/Answer a question page.png" width="150"></td>
-    <td align="center"><strong>AI Chat</strong><br><img src="assets/screenshots/AI Chat page.png" width="150"></td>
+    <td align="center"><strong>Chats Page</strong><br><img src="assets/screenshots/Chats page.jpg" width="150"></td>
+    <td align="center"><strong>AI Chat Page</strong><br><img src="assets/screenshots/AI Chat page.jpg" width="150"></td>
+    <td align="center"><strong>Answer Question</strong><br><img src="assets/screenshots/Answer a question page.jpg" width="150"></td>
+    <td align="center"><strong>Questions Page</strong><br><img src="assets/screenshots/Questions page.jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Pilgrim List</strong><br><img src="assets/screenshots/pilgrim’s list page.png" width="150"></td>
-    <td align="center"><strong>Notifications to Group Leaders</strong><br><img src="assets/screenshots/Notifications to Group Leaders page.png" width="150"></td>
-    <td align="center"><strong>Notifications</strong><br><img src="assets/screenshots/Notifications page.png" width="150"></td>
-    <td align="center"><strong>Notification</strong><br><img src="assets/screenshots/Notification page.png" width="150"></td>
+    <td align="center"><strong>Check-in Page</strong><br><img src="assets/screenshots/Check-in page.jpg" width="150"></td>
+    <td align="center"><strong>Map Page</strong><br><img src="assets/screenshots/Map page.jpg" width="150"></td>
+    <td align="center"><strong>Im-lost Page</strong><br><img src="assets/screenshots/im-lost page.jpg" width="150"></td>
+    <td align="center"><strong>Im-lost Cases</strong><br><img src="assets/screenshots/im-lost cases page.jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Notification Details</strong><br><img src="assets/screenshots/Notification details page.png" width="150"></td>
-    <td align="center"><strong>Map</strong><br><img src="assets/screenshots/Map page.png" width="150"></td>
-    <td align="center"><strong>Manager Control Panel</strong><br><img src="assets/screenshots/manager control panel page.png" width="150"></td>
-    <td align="center"><strong>Login 2</strong><br><img src="assets/screenshots/Login page(2).png" width="150"></td>
+    <td align="center"><strong>Control Panel</strong><br><img src="assets/screenshots/Control panel page.jpg" width="150"></td>
+    <td align="center"><strong>Manager Control Panel</strong><br><img src="assets/screenshots/manager control panel page.jpg" width="150"></td>
+    <td align="center"><strong>Group Leader Chat</strong><br><img src="assets/screenshots/Group Leader chat page.jpg" width="150"></td>
+    <td align="center"><strong>Group Leader Chats</strong><br><img src="assets/screenshots/Group Leader chats page.jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Login 1</strong><br><img src="assets/screenshots/Login page(1).png" width="150"></td>
-    <td align="center"><strong>Learn</strong><br><img src="assets/screenshots/Learn page.png" width="150"></td>
-    <td align="center"><strong>Im-lost</strong><br><img src="assets/screenshots/im-lost page.png" width="150"></td>
-    <td align="center"><strong>Im-lost Cases</strong><br><img src="assets/screenshots/im-lost cases page.png" width="150"></td>
+    <td align="center"><strong>Group Leader Im-lost</strong><br><img src="assets/screenshots/Group Leader im-lost page.jpg" width="150"></td>
+    <td align="center"><strong>Group Leader Notifications</strong><br><img src="assets/screenshots/Group Leader notifications page.jpg" width="150"></td>
+    <td align="center"><strong>Notifications Page</strong><br><img src="assets/screenshots/Notifications page.jpg" width="150"></td>
+    <td align="center"><strong>Notification Page</strong><br><img src="assets/screenshots/Notification page.jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>List of Groups</strong><br><img src="assets/screenshots/list of groups page.png" width="150"></td>
-    <td align="center"><strong>Welcoming 3</strong><br><img src="assets/screenshots/Welcoming page(3).png" width="150"></td>
-    <td align="center"><strong>Welcoming 2</strong><br><img src="assets/screenshots/Welcoming page(2).png" width="150"></td>
-    <td align="center"><strong>Welcome 1</strong><br><img src="assets/screenshots/welcome page(1).png" width="150"></td>
+    <td align="center"><strong>Notification Details</strong><br><img src="assets/screenshots/Notification details page.jpg" width="150"></td>
+    <td align="center"><strong>Notifications to Group Leaders</strong><br><img src="assets/screenshots/Notifications to Group Leaders page.jpg" width="150"></td>
+    <td align="center"><strong>List of Groups</strong><br><img src="assets/screenshots/list of groups page.jpg" width="150"></td>
+    <td align="center"><strong>Pilgrim List</strong><br><img src="assets/screenshots/pilgrim’s list page.jpg" width="150"></td>
   </tr>
+
   <tr>
-    <td align="center"><strong>Tawaf Learning 1</strong><br><img src="assets/screenshots/Tawaf learning page(1).png" width="150"></td>
-    <td align="center"><strong>Send New Notification</strong><br><img src="assets/screenshots/send new notification page.png" width="150"></td>
-    <td align="center"><strong>Registration</strong><br><img src="assets/screenshots/Registration page.png" width="150"></td>
-    <td align="center"><strong>Recovery</strong><br><img src="assets/screenshots/Recovery Page.png" width="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Questions</strong><br><img src="assets/screenshots/Questions page.png" width="150"></td>
+    <td align="center"><strong>Welcoming 2</strong><br><img src="assets/screenshots/Welcoming page(2).jpg" width="150"></td>
+    <td align="center"><strong>Welcoming 3</strong><br><img src="assets/screenshots/Welcoming page(3).jpg" width="150"></td>
   </tr>
 </table>
 
@@ -150,14 +142,15 @@ The prototype demonstrates **40+ mobile interfaces** and role-based user flows a
 
 ## System Analysis Diagrams
 
-The project includes UML and activity diagrams to represent the system structure, user interactions, and main process flows.
+The project includes UML and activity diagrams to represent the system structure, user interactions, and main process flows.  
+The diagrams were designed using **Draw.io**.
 
 <table>
   <tr>
-    <td align="center"><strong>Use Case Diagram</strong><br><img src="assets/diagrams/UseCase.jpg" width="420"></td>
+    <td align="center"><strong>Use Case Diagram</strong><br><img src="assets/diagrams/UseCase.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Class Diagram</strong><br><img src="assets/diagrams/Class Diagram.png" width="420"></td>
+    <td align="center"><strong>Class Diagram</strong><br><img src="assets/diagrams/Class Diagram.png" width="520"></td>
   </tr>
 </table>
 
@@ -168,22 +161,22 @@ The project includes UML and activity diagrams to represent the system structure
 
 <table>
   <tr>
-    <td align="center"><strong>Registration & Login</strong><br><img src="assets/diagrams/activity-Registration & Login.jpg" width="420"></td>
+    <td align="center"><strong>Registration & Login</strong><br><img src="assets/diagrams/activity-Registration & Login.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Check-in</strong><br><img src="assets/diagrams/activity-Check-in.jpg" width="420"></td>
+    <td align="center"><strong>Check-in</strong><br><img src="assets/diagrams/activity-Check-in.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Emergency SOS</strong><br><img src="assets/diagrams/activity-Emergency SOS.jpg" width="420"></td>
+    <td align="center"><strong>Emergency SOS</strong><br><img src="assets/diagrams/activity-Emergency SOS.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Religious Advisor Chat</strong><br><img src="assets/diagrams/activity-Mufti Chat.jpg" width="420"></td>
+    <td align="center"><strong>Religious Advisor Chat</strong><br><img src="assets/diagrams/activity-Mufti Chat.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Announcements</strong><br><img src="assets/diagrams/activity-Announcements.jpg" width="420"></td>
+    <td align="center"><strong>Announcements</strong><br><img src="assets/diagrams/activity-Announcements.jpg" width="520"></td>
   </tr>
   <tr>
-    <td align="center"><strong>AI Assistant</strong><br><img src="assets/diagrams/ai_assistant_activity_diagram.jpg" width="420"></td>
+    <td align="center"><strong>AI Assistant</strong><br><img src="assets/diagrams/ai_assistant_activity_diagram.jpg" width="520"></td>
   </tr>
 </table>
 
@@ -191,7 +184,7 @@ The project includes UML and activity diagrams to represent the system structure
 
 ---
 
-## Technologies & Concepts
+## Technologies & Tools
 
 | Category | Tools / Technologies |
 |---|---|
@@ -199,6 +192,7 @@ The project includes UML and activity diagrams to represent the system structure
 | Backend & Database | Firebase, Firestore |
 | AI Support | Gemini AI |
 | System Modeling | UML, Use Case, Activity, Class Diagrams |
+| Diagram Design | Draw.io |
 | UI/UX | Role-based screens, user flows, interface design |
 | Documentation | Technical documentation, system analysis, project report |
 
