@@ -1,9 +1,16 @@
 <div align="center">
 
-# Nask – Hajj Campaign Management App
+# Nask – Hajj Campaign Management App 🕋
 
 ### Graduation Project | Computer Information Systems  
 A role-based mobile application designed to improve communication, coordination, and safety inside private Hajj campaign companies.
+
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 </div>
 
@@ -11,9 +18,26 @@ A role-based mobile application designed to improve communication, coordination,
 
 ## Overview
 
-**Nask** is a graduation project designed for private Hajj campaign companies to manage internal coordination between pilgrims, group leaders, religious advisors, and campaign managers.
+**Nask** is a graduation project designed to support private Hajj campaign companies by organizing internal communication, coordination, and pilgrim support through one integrated mobile application.
 
-The app brings essential campaign services into one organized platform, including role-based dashboards, SOS alerts, check-in, group communication, religious consultation, AI assistance, notifications, and learning materials.
+The project addresses common challenges in traditional campaign management, such as scattered communication channels, delayed instructions, difficulty tracking pilgrims, manual check-in, and limited access to organized religious guidance.
+
+Nask provides a role-based experience for **Pilgrims, Group Leaders, Religious Advisors, and Campaign Managers**, allowing each user type to access the features they need through a clear and structured interface.
+
+---
+
+## Project Purpose
+
+The main purpose of Nask is to improve the operational experience inside Hajj campaigns by transforming manual and scattered processes into a more organized digital workflow.
+
+The app focuses on:
+
+- Improving communication between campaign members
+- Supporting emergency response through SOS alerts
+- Organizing check-in and group tracking
+- Providing religious and educational support
+- Supporting campaign managers with better visibility and coordination
+- Enhancing the overall pilgrim experience during Hajj
 
 ---
 
@@ -24,6 +48,7 @@ The app brings essential campaign services into one organized platform, includin
 - Database and Firestore collections planning
 - Designing 40+ mobile app interfaces
 - Preparing UML diagrams and project documentation
+- Creating diagrams using Draw.io
 - Presenting the project through a final report, poster, and project showcase
 
 ---
@@ -32,10 +57,10 @@ The app brings essential campaign services into one organized platform, includin
 
 | User Type | Description |
 |---|---|
-| **Pilgrim** | Uses the app for guidance, check-in, SOS alerts, learning materials, and communication. |
-| **Group Leader** | Manages pilgrims, receives alerts, follows group status, and communicates with assigned pilgrims. |
+| **Pilgrim** | Uses the app for guidance, check-in, SOS alerts, learning materials, AI support, and communication. |
+| **Group Leader** | Manages assigned pilgrims, receives alerts, follows group status, and communicates with pilgrims. |
 | **Religious Advisor** | Receives and answers religious questions from pilgrims. |
-| **Campaign Manager** | Manages the campaign, announcements, users, groups, and overall coordination. |
+| **Campaign Manager** | Manages users, groups, announcements, campaign coordination, and overall system activity. |
 
 ---
 
@@ -43,14 +68,15 @@ The app brings essential campaign services into one organized platform, includin
 
 | Feature | Description |
 |---|---|
-| **Role-Based Dashboards** | Different interfaces and functions based on each user role. |
+| **Role-Based Dashboards** | Each user type has a dedicated interface and access to relevant features. |
 | **Emergency SOS** | Allows pilgrims to send emergency alerts with location support. |
-| **Check-in System** | Supports organized attendance and group tracking. |
-| **Chat & Consultation** | Enables communication between pilgrims, group leaders, and religious advisors. |
-| **AI Assistant** | Provides smart support and guidance for pilgrims. |
-| **Learning Materials** | Provides Manasik and Hajj-related educational content. |
-| **Notifications** | Supports campaign updates and announcements. |
-| **Firestore Structure** | Uses NoSQL collections to organize users, groups, chats, questions, SOS cases, and learning data. |
+| **Check-in System** | Helps organize attendance and group tracking during campaign activities. |
+| **Chat & Consultation** | Supports communication between pilgrims, group leaders, and religious advisors. |
+| **AI Assistant** | Provides smart support and general guidance for pilgrims. |
+| **Religious Advisor Support** | Allows pilgrims to send religious questions and receive organized responses. |
+| **Learning Materials** | Provides educational content related to Hajj and Manasik guidance. |
+| **Notifications & Announcements** | Supports campaign updates, instructions, and important alerts. |
+| **Firestore Structure** | Uses NoSQL collections to organize users, groups, chats, questions, SOS cases, schedules, and learning data. |
 
 ---
 
@@ -188,13 +214,14 @@ The diagrams were designed using **Draw.io**.
 
 | Category | Tools / Technologies |
 |---|---|
-| Mobile Development | Flutter |
+| Mobile Development | Flutter, Dart |
 | Backend & Database | Firebase, Firestore |
+| Authentication & Access | Firebase Authentication, role-based access |
 | AI Support | Gemini AI |
 | System Modeling | UML, Use Case, Activity, Class Diagrams |
 | Diagram Design | Draw.io |
-| UI/UX | Role-based screens, user flows, interface design |
-| Documentation | Technical documentation, system analysis, project report |
+| UI/UX | Role-based screens, user flows, Arabic RTL interface |
+| Documentation | Technical documentation, system analysis, final project report |
 
 ---
 
@@ -209,13 +236,15 @@ The project demonstrates skills in:
 - Database and Firestore structure design
 - UI/UX and user flow design
 - Technical documentation
+- Role-based access planning
 - Digital transformation thinking
 
 ---
 
-## Note
+## Source Code Notice
 
-This repository is created as a **project showcase**.  
+This repository is created as a **project showcase**.
+
 The full source code is kept private due to project, team, and configuration sensitivity.
 
 ---
